@@ -10,7 +10,7 @@ Welcome to **Art3mis Oracle**, your one-stop **AI on-chain tarot** platform. Thi
   - [Connecting Your Wallet](#connecting-your-wallet)  
   - [Asking Your Question](#asking-your-question)  
   - [Drawing a Tarot Card](#drawing-a-tarot-card)  
-  - [Saving Your Reading](#saving-your-reading)  
+  - [Saving Your Reading as an NFT](#saving-your-reading-as-an-nft)  
 
 ---
 
